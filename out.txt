@@ -1,0 +1,19 @@
+[UTC May 18 16:20:47] info     : Starting Monit 5.25.1 daemon with http interface at [*]:2812
+[UTC May 18 16:20:47] info     : Monit start delay set to 60s
+[UTC May 18 16:21:47] info     : 'integracion-apigee-ha02-router-0-cdlv-prod' Monit 5.25.1 started
+[UTC May 18 16:21:51] error    : Mail: Mailserver response error -- 554 5.2.0 STOREDRV.Submission.Exception:SendAsDeniedException.MapiExceptionSendAsDenied; Failed to process message due to a permanent exception with message Cannot submit message. 0.35250:0A009981, 1.36674:0A000000, 1.61250:00000000, 1.45378:02000000, 1.4
+[UTC May 18 16:21:51] error    : SMTP: Mailserver response error -- 4866:E9240000, 1.36674:0E000000, 1.61250:00000000, 1.45378:EE240000, 1.44866:12020000, 16.55847:8A100000, 17.43559:0000000024020000000000000000000000000000, 20.52176:140FCD8B1300103100000000, 20.50032:140FCD8B8317000000000000, 0.35180:140FCD8B, 255.23226:
+[UTC May 18 16:21:51] info     : Adding event to the queue file /opt/apigee/data/apigee-monit/1589818911_19a92e0 for later delivery
+[UTC May 18 16:22:03] info     : Reinitializing monit daemon
+[UTC May 18 16:22:07] error    : Mail: Mailserver response error -- 554 5.2.0 STOREDRV.Submission.Exception:SendAsDeniedException.MapiExceptionSendAsDenied; Failed to process message due to a permanent exception with message Cannot submit message. 0.35250:0A009981, 1.36674:0A000000, 1.61250:00000000, 1.45378:02000000, 1.4
+[UTC May 18 16:22:07] error    : SMTP: Mailserver response error -- 4866:D9240000, 1.36674:0E000000, 1.61250:00000000, 1.45378:DE240000, 1.44866:12020000, 16.55847:95100000, 17.43559:0000000024020000000000000000000000000000, 20.52176:140FCD8B1300103100000000, 20.50032:140FCD8B8317000000000000, 0.35180:140FCD8B, 255.23226:
+[UTC May 18 16:22:07] error    : Alert handler failed, retry scheduled for next cycle
+[UTC May 18 16:23:07] info     : Reinitializing Monit -- control file '/opt/apigee/apigee-monit-5.2.5-0.0.611/conf/monit.conf'
+[UTC May 18 16:23:07] info     : 'integracion-apigee-ha02-router-0-cdlv-prod' Monit reloaded
+[UTC May 19 18:06:25] info     : Monit daemon with pid [101691] stopped
+[UTC May 19 18:06:25] info     : 'integracion-apigee-ha02-router-0-cdlv-prod' Monit 5.25.1 stopped
+[UTC May 19 18:07:03] info     : Starting Monit 5.25.1 daemon with http interface at [*]:2812
+[UTC May 19 18:07:03] info     : Monit start delay set to 60s
+[UTC May 19 18:08:03] info     : 'integracion-apigee-ha02-router-0-cdlv-prod' Monit 5.25.1 started
+[UTC May 27 19:20:24] info     : Monit daemon with pid [98853] stopped
+[UTC May 27 19:20:24] info     : 'integracion-apigee-ha02-router-0-cdlv-prod' Monit 5.25.1 stopped
